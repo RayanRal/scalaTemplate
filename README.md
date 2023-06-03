@@ -1,0 +1,1 @@
+# empty sbt Scala project sample
